@@ -1,0 +1,11 @@
+Date,Description,Amount
+2023-11-01,Supermarket,92.30
+2023-11-02,Uber Ride,18.50
+2023-11-03,Unknown Electronics Store,3200.00  # Will be flagged
+2023-11-04,Local Cafe,8.75
+2023-11-05,International Wire Transfer,5000.00  # Will be flagged
+2023-11-06,Gym Membership,35.00
+2023-11-07,Suspicious Online Purchase,1299.99  # Will be flagged
+2023-11-08,Public Transport,3.50
+2023-11-09,Regular Pharmacy,22.40
+2023-11-10,Food Delivery,15.80
